@@ -4,5 +4,6 @@
   "description": "",
   "keywords": [],
   "author": "Yurick",
-  "license": "MIT"
+  "license": "MIT",
+  "packageManager": "pnpm@9.15.4"
 }
